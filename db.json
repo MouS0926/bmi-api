@@ -1,0 +1,115 @@
+{
+    "user": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john@example.com",
+        "password": "password123"
+      },
+      {
+        "id": 2,
+        "name": "Smith Jonas",
+        "email": "smith@example.com",
+        "password": "smith"
+      },
+      {
+        "name": "moumita",
+        "email": "moumita@mail.com",
+        "password": "1234",
+        "id": 3
+      },
+      {
+        "name": "Anindita",
+        "email": "ani@mail.com",
+        "password": "12345",
+        "history": [],
+        "id": 4
+      },
+      {
+        "name": "ashis",
+        "email": "ashis@mail.com",
+        "password": "123456",
+        "id": 5
+      },
+      {
+        "name": "dora",
+        "email": "dora@mail.com",
+        "password": "321",
+        "id": 6
+      },
+      {
+        "name": "dora",
+        "email": "dora@mail.com",
+        "password": "321",
+        "id": 7
+      }
+    ],
+    "history": [
+      {
+        "name": "Anindita",
+        "email": "ani@mail.com",
+        "weight": "45",
+        "height": 2.2606,
+        "bmi": "8.81",
+        "id": 1
+      },
+      {
+        "name": "Anindita",
+        "email": "ani@mail.com",
+        "weight": "49",
+        "height": 1.5494,
+        "bmi": "20.41",
+        "id": 2
+      },
+      {
+        "name": "Anindita",
+        "email": "ani@mail.com",
+        "weight": "67",
+        "height": 1.8288000000000002,
+        "bmi": "20.03",
+        "id": 3
+      },
+      {
+        "name": "Anindita",
+        "email": "ani@mail.com",
+        "weight": "34",
+        "height": null,
+        "bmi": "NaN",
+        "id": 4
+      },
+      {
+        "name": "dora",
+        "email": "dora@mail.com",
+        "weight": "34",
+        "height": 18.2118,
+        "bmi": "0.10",
+        "id": 5
+      },
+      {
+        "weight": "54",
+        "height": 1.6764000000000001,
+        "bmi": "19.21",
+        "id": 6
+      },
+      {
+        "weight": "45",
+        "height": 1.2192,
+        "bmi": "30.27",
+        "id": 7
+      },
+      {
+        "weight": "49",
+        "height": 1.2446000000000002,
+        "bmi": "31.63",
+        "id": 8
+      },
+      {
+        "name": "dora",
+        "email": "dora@mail.com",
+        "weight": "49",
+        "height": 1.2446000000000002,
+        "bmi": "31.63",
+        "id": 9
+      }
+    ]
+  }
